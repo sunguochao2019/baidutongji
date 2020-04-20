@@ -1,0 +1,27 @@
+{
+  "name": "fq-fetch",
+  "version": "1.0.2",
+  "description": "NPM 模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunguochao2019/s-fetch.git"
+  },
+  "keywords": [
+    "ms-fetch",
+    "axios",
+    "ajax"
+  ],
+  "author": "番茄向前看",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunguochao2019/s-fetch/issues"
+  },
+  "homepage": "https://github.com/sunguochao2019/s-fetch#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
