@@ -111,7 +111,7 @@ export default {
           let user = {
             username: values.userName,
             password: values.password,
-            token: "11c6f13e97eb44634856f02329ddb33a"
+            token: "11c6f13e97eb44634856f02329ddb33aqw5432"
           };
           this.$store.dispatch("checkLogin", user).then(() => {
             window.location = "/index";
