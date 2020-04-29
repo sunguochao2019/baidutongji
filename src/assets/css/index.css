@@ -1,0 +1,38 @@
+.layoutContent.ant-layout-content {
+    margin: 24px 16px;
+    padding: 24px;
+    background: #fff;
+    min-height: 280px;
+}
+
+.logo {
+    height: 36px;
+    margin: 12px;
+    background: url("../images/logo.png") no-repeat 0 0;
+}
+
+
+.trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.trigger:hover {
+    color: #1890ff;
+}
+
+.headSite.ant-select {
+    float: right;
+    margin: 16px;
+    width: 250px;
+    ;
+}
+
+.headUser {
+    float: right;
+    margin: 0 16px 0 0;
+    width: 100px;
+}
